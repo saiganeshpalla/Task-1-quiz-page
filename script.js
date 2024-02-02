@@ -9,8 +9,8 @@ function checkAnswer(){
         }
     }
     if(selectedAnswer == correctAnswer){
-        alert("this is the correct answer")
+        alert("wow its a correct answer")
     }else{
-        alert("this is the wrong answer")
+        alert("This is the wrong answer try again")
     }
 }
